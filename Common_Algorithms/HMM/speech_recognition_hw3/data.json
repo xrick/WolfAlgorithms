@@ -1,0 +1,29 @@
+{
+    "HMMData":
+    {
+        "Sequence1":
+        [
+"ABBCABCAABC",
+"ABCABC",
+"ABCAABC",
+"BBABCAB",
+"BCAABCCAB",
+"CACCABCA",
+"CABCABCA",
+"CABCA",
+"CABCA"
+        ],
+         "Sequence2":
+         [
+"BBBCCBC",
+"CCBABB",
+"AACCBBB",
+"BBABBAC",
+"CCAABAB",
+"BBBCCBAA",
+"ABBBBABA",
+"CCCCC",
+"BBAAA"
+         ]  
+    }
+}
