@@ -146,6 +146,7 @@ def HMMBaumWelch(o, N, dirichlet=False, verbose=False, rand_seed=1):
     return a, b, pi, alpha
 
 
+
 def app_run():
     a = np.random.dirichlet(np.ones(3), size=3)
     b = [[1,2,3,4,5],
